@@ -1,0 +1,897 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BOOTSTRAP CALENDAR</title>
+  <!-- BOOTSTRAP CSS -->
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+  <!-- Custom CSS -->
+</head>
+<body>
+      </div>
+   <div class="container">
+       <div class="row">
+       <div class="col-md-6 offset-md-3">
+        <h2 class="text-center mt-5">CALENDAR 2024</h2>
+        <table class="table table-bordered mt-3">
+        
+        <style>
+          .sunday{
+            color: red;
+          }
+        </style>
+
+    </head>
+    <body>
+      <div class="container">
+        <div class="row">
+          <div class="col-md-6 offset-md-3">
+            <h2 class="text-center mt-5"></h2>
+            <table class="table table-bordered mt-3">
+
+              <thead>
+                <h2 class="text- mt-5 text-center">JANUARY 2024</h2>
+            <tr class="text-center">
+              <th scope="col" class="sunday">Sun</th>
+              <th scope="col">Mon</th>
+              <th scope="col">Tue</th>
+              <th scope="col">Wed</th>
+              <th scope="col">Thu</th>
+              <th scope="col">Fri</th>
+              <th scope="col">Sat</th>
+            </tr>
+              </thead>
+          <tbody class="text-center">
+            <tr class="text-center">
+              <td></td>
+              <td class="text-danger">1 (NEW YEARS DAY)</td>
+              <td>2</td>
+              <td>3</td>
+              <td>4</td>
+              <td>5</td>
+              <td>6</td>
+            </tr>
+
+            <tr>
+              <td class="text-danger">7</td>
+              <td>8</td>
+              <td>9</td>
+              <td>10</td>
+              <td>11</td>
+              <td>12</td>
+              <td>13</td>
+            </tr>
+
+            <tr>
+              <td class="text-danger">14</td>
+              <td>15</td>
+              <td>16</td>
+              <td>17</td>
+              <td>18</td>
+              <td>19</td>
+              <td>20</td>
+            </tr>
+
+            <tr>
+              <td class="text-danger">21</td>
+              <td>22</td>
+              <td>23</td>
+              <td>24</td>
+              <td>25</td>
+              <td>26</td>
+              <td>27</td>
+            </tr>
+
+            <tr>
+              <td class="text-danger">28</td>
+              <td>29</td>
+              <td>30</td>
+              <td>31</td>
+              
+              <style>
+                .sunday {
+                  color: red;
+                }
+              </style>
+
+          </head>
+          <body>
+            <div class="container">
+              <div class="row">
+                <div class="col-md-6 offset-md-3">
+                  <h2 class="text-center mt-5"></h2>
+                  <table class="table table-bordered mt-3">
+
+                    <thead>
+                      <h2 class="text- mt-5 text-center">FEBRUARY 2024</h2>
+                    <tr class="text-center">
+                        <th scope="col" class="sunday">Sun</th>
+                        <th scope="col">Mon</th>
+                        <th scope="col">Tue</th>
+                        <th scope="col">Wed</th>
+                        <th scope="col">Thu</th>
+                        <th scope="col">Fri</th>
+                        <th scope="col">Sat</th>
+                      </tr>
+                        </thead>
+                    <tbody class="text-center">
+                      <tr class="text-center">
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td></td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>3</td>
+                      </tr>
+
+                      <tr>
+                        <td class="text-danger">4</td>
+                        <td>5</td>
+                        <td>6</td>
+                        <td>7</td>
+                        <td>8</td>
+                        <td class="text-danger">9 (LUNAR NEW YEAR HOLIDAY)</td>
+                        <td class="text-danger">10 (LUNAR NEW YEAR'S DAY)</td>
+                      </tr>
+
+                      <tr>
+                        <td class="text-danger">11</td>
+                        <td>12</td>
+                        <td>13</td>
+                        <td>14</td>
+                        <td>15</td>
+                        <td>16</td>
+                        <td>17</td>
+                      </tr>
+
+                      <tr>
+                        <td class="text-danger">18</td>
+                        <td>19</td>
+                        <td>20</td>
+                        <td>21</td>
+                        <td>22</td>
+                        <td>23</td>
+                        <td>24</td>
+                      </tr>
+
+                      <tr>
+                        <td class="text-danger">25 (PEOPLE POWER ANNIVERSARY)</td>
+                        <td>26</td>
+                        <td>27</td>
+                        <td>28</td>
+                        <td>29</td>
+
+                        <style>
+                          .sunday {
+                            color: red;
+                          }
+                        </style>
+
+                    </head>
+                    <body>
+                      <div class="container">
+                        <div class="row">
+                          <div class="col-md-6 offset-md-3">
+                            <h2 class="text-center mt-5"></h2>
+                            <table class="table table-bordered mt-3">
+
+                              <thead>
+                                <h2 class="text- mt-5 text-center">MARCH 2024</h2>
+                              <tr class="text-center">
+                                <th scope="col" class="sunday">Sun</th>
+                                <th scope="col">Mon</th>
+                                <th scope="col">Tue</th>
+                                <th scope="col">Wed</th>
+                                <th scope="col">Thu</th>
+                                <th scope="col">Fri</th>
+                                <th scope="col">Sat</th>
+                              </tr>
+                                </thead>
+                            <tbody class="text-center">
+                              <tr class="text-center">
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td></td>
+                                <td>1</td>
+                                <td>2</td>
+                              </tr>
+
+                              <tr>
+                                <td class="text-danger">3</td>
+                                <td>4</td>
+                                <td>5</td>
+                                <td>6</td>
+                                <td>7</td>
+                                <td>8</td>
+                                <td>9</td>
+                              </tr>
+
+                              <tr>
+                                <td class="text-danger">10</td>
+                                <td class="text-danger">11 (RAMADAN START)</td>
+                                <td class="text-danger">12 (RAMADAN START)</td>
+                                <td>13</td>
+                                <td>14</td>
+                                <td>15</td>
+                                <td>16</td>
+                              </tr>
+
+                              <tr>
+                                <td class="text-danger">17</td>
+                                <td>18</td>
+                                <td>19</td>
+                                <td>20</td>
+                                <td>21</td>
+                                <td>22</td>
+                                <td>23</td>
+                              </tr>
+
+                              <tr>
+                                <td class="text-danger">24</td>
+                                <td>25</td>
+                                <td>26</td>
+                                <td>27</td>
+                                <td class="text-danger">28 (MAUNDY THURSDAY)</td>
+                                <td class="text-danger">29 (GOOD FRIDAY)</td>
+                                <td class="text-danger">30 (BLACK SATURDAY)</td>
+                              </tr>
+
+                              <tr>
+                                <td class="text-danger">31 (EASTER SUNDAY)</td>
+
+                                <style>
+                                  .sunday {
+                                    color: red;
+                                  }
+                                </style>
+
+                            </head>
+                            <body>
+                              <div class="container">
+                                <div class="row">
+                                  <div class="col-md-6 offset-md-3">
+                                    <h2 class="text-center mt-5"></h2>
+                                    <table class="table table-bordered mt-3">
+
+                                      <thead>
+                                        <h2 class="text- mt-5 text-center">APRIL 2024</h2>
+                                      <tr class="text-center">
+                                        <th scope="col" class="sunday">Sun</th>
+                                        <th scope="col">Mon</th>
+                                        <th scope="col">Tue</th>
+                                        <th scope="col">Wed</th>
+                                        <th scope="col">Thu</th>
+                                        <th scope="col">Fri</th>
+                                        <th scope="col">Sat</th>
+                                      </tr>
+                                         </thead>
+                                    <tbody class="text-center">
+                                      <tr class="text-center">
+                                        <td></td>
+                                        <td></td>
+                                        <td></td>
+                                        <td>1</td>
+                                        <td>2</td>
+                                        <td>3</td>
+                                        <td>4</td>
+                                      </tr>
+
+                                      <tr>
+                                        <td class="text-danger">5</td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td class="text-danger">9 (THE DAY OF VALOR)</td>
+                                        <td class="text-danger">10 (EIDUL-FITAR)</td>
+                                        <td>11</td>
+                                      </tr>
+
+                                      <tr>
+                                        <td class="text-danger">12</td>
+                                        <td>13</td>
+                                        <td>14</td>
+                                        <td>15</td>
+                                        <td>16</td>
+                                        <td>17</td>
+                                        <td>18</td>
+                                      </tr>
+
+                                      <tr>
+                                        <td class="text-danger">19</td>
+                                        <td>20</td>
+                                        <td>21</td>
+                                        <td>22</td>
+                                        <td>23</td>
+                                        <td>24</td>
+                                        <td>25</td>
+                                      </tr>
+
+                                      <tr>
+                                        <td class="text-danger">26</td>
+                                        <td>27</td>
+                                        <td>28</td>
+                                        <td>29</td>
+                                        <td>30</td>
+                                        <td>31</td>
+                                      
+                                        <style>
+                                          .sunday {
+                                            color: red;
+                                          }
+                                        </style>
+                                </head>
+                                <body>
+                                  <div class="container">
+                                    <div class="row">
+                                      <div class="col-md-6 offset-md-3">
+                                    <h2 class="text-center mt-5"></h2>
+                                     <table class="table table-bordered mt-3">
+
+                                      <thead>
+                                    <h2 class="text- mt-5 text-center">MAY 2024</h2>
+                                     <tr class="text-center">
+                                       <th scope="col" class="sunday">Sun</th>
+                                       <th scope="col">Mon</th>
+                                       <th scope="col">Tue</th>
+                                       <th scope="col">Wed</th>
+                                       <th scope="col">Thu</th>
+                                       <th scope="col">Fri</th>
+                                       <th scope="col">Sat</th>
+                                  </tr>
+                                    </thead>
+                                       <tbody class="text-center">
+                                         <tr class="text-center">
+                                           <td></td>
+                                           <td></td>
+                                           <td></td>
+                                           <td class="text-danger">1 (LABOR DAY)</td>
+                                           <td>2</td>
+                                           <td>3</td>
+                                           <td>4</td>
+                                      </tr>
+
+                                      <tr>
+                                        <td class="text-danger">5</td>
+                                        <td>6</td>
+                                        <td>7</td>
+                                        <td>8</td>
+                                        <td>9</td>
+                                        <td>10</td>
+                                        <td>11</td>
+                                     </tr>
+
+                                     <tr>
+                                       <td class="text-danger">12</td>
+                                       <td>13</td>
+                                       <td>14</td>
+                                       <td>15</td>
+                                       <td>16</td>
+                                       <td>17</td>
+                                       <td>18</td>
+                                    </tr>
+
+                                    <tr>
+                                      <td class="text-danger">19</td>
+                                      <td>20</td>
+                                      <td>21</td>
+                                      <td>22</td>
+                                      <td>23</td>
+                                      <td>24</td>
+                                      <td>25</td>
+                                   </tr>
+
+                                   <tr>
+                                     <td class="text-danger">26</td>
+                                     <td>27</td>
+                                     <td>28</td>
+                                     <td>29</td>
+                                     <td>30</td>
+                                     <td>31</td>
+                                     <td></td>
+              <style>
+                .sunday {
+                  color: red;
+                }
+              </style>
+
+            </head>
+            <body>
+              <div class="container">
+                <div class="row">
+                  <div class="col-md-6 offset-md-3">
+                    <h2 class="text-center mt-5"></h2>
+                    <table class="table table-bordered mt-3">
+
+                      <thead>
+                        <h2 class="text- mt-5 text-center">JUNE 2024</h2>
+                        <tr class="text-center">
+                          <th scope="col" class="sunday">Sun</th>
+                          <th scope="col">Mon</th>
+                          <th scope="col">Tue</th>
+                          <th scope="col">Wed</th>
+                          <th scope="col">Thu</th>
+                          <th scope="col">Fri</th>
+                          <th scope="col">Sat</th>
+                        </tr>
+                      </thead>
+
+                      <tbody class="text-center">
+                        <tr>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td></td>
+                          <td>1</td>
+                        </tr>
+
+                        <tr>
+                          <td class="text-danger">2</td>
+                          <td>3</td>
+                          <td>4</td>
+                          <td>5</td>
+                          <td>6</td>
+                          <td>7</td>
+                          <td>8</td>
+                        </tr>
+
+                        <tr>
+                          <td class="text-danger">9</td>
+                          <td>10</td>
+                          <td>11</td>
+                          <td class="text-danger">12 (INDEPENDENCE DAY)</td>
+                          <td>13</td>
+                          <td>14</td>
+                          <td>15</td>
+                        </tr>
+
+                        <tr>
+                          <td class="text-danger">16</td>
+                          <td class="text-danger">17 EID AL-ADHA(FEAST OF THE SACRIFICE)</td>
+                          <td>18</td>
+                          <td>19</td>
+                          <td>20</td>
+                          <td>21</td>
+                          <td>22</td>
+                        </tr>
+                        <tr>
+                          <td class="text-danger">23</td>
+                          <td>24</td>
+                          <td>25</td>
+                          <td>26</td>
+                          <td>27</td>
+                          <td>28</td>
+                          <td>29</td>
+
+                        <tr>
+                            <td class="text-danger">30</td>
+                        </tr>  
+
+                          <style>
+                            .sunday {
+                              color: red;
+                            }
+                          </style>
+
+                        </head>
+                        <body>
+                          <div class="container">
+                            <div class="row">
+                              <div class="col-md-6 offset-md-3">
+                                <h2 class="text-center mt-5"></h2>
+                                <table class="table table-bordered mt-3">
+
+                                  <thead>
+                                    <h2 class="text- mt-5 text-center">JULY 2024</h2>
+                                    <tr class="text-center">
+                                      <th scope="col" class="sunday">Sun</th>
+                                      <th scope="col">Mon</th>
+                                      <th scope="col">Tue</th>
+                                      <th scope="col">Wed</th>
+                                      <th scope="col">Thu</th>
+                                      <th scope="col">Fri</th>
+                                      <th scope="col">Sat</th>
+                                    </tr>
+
+                                  </thead>
+                                  <tbody class="text-center">
+                                    <tr>
+                                      <td></td>
+                                      <td>1</td>
+                                      <td>2</td>
+                                      <td>3</td>
+                                      <td>4</td>
+                                      <td>5</td>
+                                      <td>6</td>
+                                    </tr>
+
+                                    <tr>
+                                      <td class="text-danger">7</td>
+                                      <td>8</td>
+                                      <td>9</td>
+                                      <td>10</td>
+                                      <td>11</td>
+                                      <td>12</td>
+                                      <td>13</td>
+                                    </tr>
+
+                                    <tr>
+                                      <td class="text-danger">14</td>
+                                      <td>15</td>
+                                      <td>16</td>
+                                      <td>17</td>
+                                      <td>18</td>
+                                      <td>19</td>
+                                      <td>20</td>
+                                    </tr>
+
+                                    <tr>
+                                      <td class="text-danger">21</td>
+                                      <td>22</td>
+                                      <td>23</td>
+                                      <td>24</td>
+                                      <td>25</td>
+                                      <td>26</td>
+                                      <td>27</td>
+                                    </tr>
+
+                                    <tr>
+                                      <td class="text-danger">28</td>
+                                      <td>29</td>
+                                      <td>30</td>
+                                      <td>31</td>
+
+                                      <style>
+                                        .sunday {
+                                          color: red;
+                                        }
+                                      </style>
+
+                                    </head>
+                                    <body>
+                                        <div class="container">
+                                            <div class="row">
+                                              <div class="col-md-6 offset-md-3">
+                                                <h2 class="text-center mt-5"></h2>
+                                                <table class="table table-bordered mt-5">
+
+                                                  <thead>
+                                                    <h2 class="text- mt-5 text-center">AUGUST 2024</h2>
+                                                    <tr class="text-center">
+                                                      <th scope="col" class="sunday">Sun</th>
+                                                      <th scope="col">Mon</th>
+                                                      <th scope="col">Tue</th>
+                                                      <th scope="col">Wed</th>
+                                                      <th scope="col">Thu</th>
+                                                      <th scope="col">Fri</th>
+                                                      <th scope="col">Sat</th>
+                                                    </tr>   
+
+                                              </thead>
+                                              <tbody class="text-center">                                              
+                                                <tr>
+                                                  <td></td>
+                                                  <td></td>
+                                                  <td></td>
+                                                  <td></td>
+                                                  <td>1</td>
+                                                  <td>2</td>
+                                                  <td>3</td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td class="text-danger">4</td>
+                                                  <td>5</td>
+                                                  <td>6</td>
+                                                  <td>7</td>
+                                                  <td>8</td>
+                                                  <td>9</td>
+                                                  <td>10</td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td class="text-danger">11</td>
+                                                  <td>12</td>
+                                                  <td>13</td>
+                                                  <td>14</td>
+                                                  <td>15</td>
+                                                  <td>16</td>
+                                                  <td>17</td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td class="text-danger">18</td>
+                                                  <td>19</td>
+                                                  <td>20</td>
+                                                  <td class="text-danger">21 (NINOY AQUINO DAY)</td>
+                                                  <td>22</td>
+                                                  <td>23</td>
+                                                  <td>24</td>
+                                                </tr>
+
+                                                <tr>
+                                                  <td class="text-danger">25</td>
+                                                  <td class="text-danger">26 (NATIONAL HEROES DAY)</td>
+                                                  <td>27</td>
+                                                  <td>28</td>
+                                                  <td>29</td>
+                                                  <td>30</td>
+                                                  <td>31</td>    
+
+                                                  <style>
+                                                    .sunday{
+                                                      color:red;
+                                                    }
+                                                  </style>
+
+                                                </head>
+                                                <body>
+                                                    <div class="container">
+                                                        <div class="row">
+                                                          <div class="col-md-6 offset-md-3">
+                                                            <h2 class="text-center mt-5"></h2>
+                                                            <table class="table table-bordered mt-5">
+
+                                                            <thead>
+                                                 <h2 class="text-center mt-5">SEPTEMBER 2024</h2>
+                                                 <tr class="text-center">
+                                                         <th scope="col" class="sunday">Sun</th>
+                                                         <th scope="col">Mon</th>
+                                                         <th scope="col">Tue</th>
+                                                         <th scope="col">Wed</th>
+                                                         <th scope="col">Thu</th>
+                                                         <th scope="col">Fri</th>
+                                                         <th scope="col">Sat</th>
+                                                        </tr>
+                                                
+                                                    </thead>
+                                                    <tbody class="text-center">
+                                                      <tr>
+                                                        <td class="text-danger">1</td>
+                                                        <td>2</td>
+                                                        <td>3</td>
+                                                        <td>4</td>
+                                                        <td>5</td>
+                                                        <td>6</td>
+                                                        <td>7</td>
+                                                      </tr>
+
+                                                      <tr>
+                                                        <td class="text-danger">8</td>
+                                                        <td>9</td>
+                                                        <td>10</td>
+                                                        <td>11</td>
+                                                        <td>12</td>
+                                                        <td>13</td>
+                                                        <td>14</td>
+                                                     </tr>
+
+                                                     <tr>
+                                                        <td class="text-danger">15</td>
+                                                        <td>16</td>
+                                                        <td>17</td>
+                                                        <td>18</td>
+                                                        <td>19</td>
+                                                        <td>20</td>
+                                                        <td>21</td>
+                                                     </tr>
+
+                                                     <tr>
+                                                        <td class="text-danger">22</td>
+                                                        <td>23</td>
+                                                        <td>24</td>
+                                                        <td>25</td>
+                                                        <td>26</td>
+                                                        <td>27</td>
+                                                        <td>28</td>
+                                                        </tr>
+                                                        <td class="text-danger">29</td>
+                                                        <td>30</td>
+
+                                                        <style>
+                                                          .sunday{
+                                                            color:red;
+                                                          }
+                                                        </style>
+
+                                                     </head>
+                                                     <body>
+                                                      <div class="container">
+                                                          <div class="row">
+                                                              <div class="col-md-6 offset-md-3">
+                                                                <h2 class="text-center mt-5"></h2>
+                                                                <table class="table table-bordered mt-5">
+
+                                                                <thead>
+                                                        <h2 class="text-center mt-5">OCTOBER 2024</h2>
+                                                        <tr class="text-center">
+                                                                <th scope="col" class="sunday">Sun</th>
+                                                                <th scope="col">Mon</th>
+                                                                <th scope="col">Tue</th>
+                                                                <th scope="col">Wed</th>
+                                                                <th scope="col">Thu</th>
+                                                                <th scope="col">Fri</th>
+                                                                <th scope="col">Sat</th>
+                                                            </tr>
+                                                        </thead>
+                                                        <tbody class="text-center"></tbody>
+                                                          <tr>
+                                                            <td></td>
+                                                            <td></td>
+                                                            <td>1</td>
+                                                            <td>2</td>
+                                                            <td>3</td>
+                                                            <td>4</td>
+                                                            <td>5</td>
+                                                         </tr>
+                                                            <td class="text-danger">6</td>
+                                                            <td>7</td>
+                                                            <td>8</td>
+                                                            <td>9</td>
+                                                            <td>10</td>
+                                                            <td>11</td>
+                                                            <td>12</td>
+                                                         </tr>
+                                                            <td class="text-danger">13</td>
+                                                            <td>14</td>
+                                                            <td>15</td>
+                                                            <td>16</td>
+                                                            <td>17</td>
+                                                            <td>18</td>
+                                                            <td>19</td>
+                                                         </tr>
+                                                            <td class="text-danger">20</td>
+                                                            <td>21</td>
+                                                            <td>22</td>
+                                                            <td>23</td>
+                                                            <td>24</td>
+                                                            <td>25</td>
+                                                            <td>26</td>
+                                                         </tr>
+                                                            <td class="text-danger">27</td>
+                                                            <td>28</td>
+                                                            <td>29</td>
+                                                            <td>30</td>
+                                                            <td>31</td>
+
+                                                            <style>
+                                                              .sunday{
+                                                                color:red;
+                                                              }
+                                                            </style>
+            
+                                                         </head>
+                                                         <body>
+                                                          <div class="container">
+                                                              <div class="row">
+                                                                <div class="col-md-6 offset-md-3">
+                                                                <h2 class="text-center mt-5"></h2>
+                                                                <table class="table table-bordered mt-5">
+
+                                                                <thead>
+                                                    <h2 class="text-center mt-5">NOVEMBER 2024</h2>
+                                                    <tr class="text-center">
+                                                            <th scope="col" class="sunday">Sun</th>
+                                                            <th scope="col">Mon</th>
+                                                            <th scope="col">Tue</th>
+                                                            <th scope="col">Wed</th>
+                                                            <th scope="col">Thu</th>
+                                                            <th scope="col">Fri</th>
+                                                            <th scope="col">Sat</th>
+                                                         </tr>
+                                                    </thead>
+                                                    <tbody class="text-center">
+                                                      <tr>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td></td>
+                                                        <td class="text-danger">1 (ALL SAINTS' DAY)</td>
+                                                        <td class="text-danger">2 (ALL SOULS' DAY)</td>
+                                                      </tr>
+                                                        <td class="text-danger">3</td>
+                                                        <td>4</td>
+                                                        <td>5</td>
+                                                        <td>6</td>
+                                                        <td>7</td>
+                                                        <td>8</td>
+                                                        <td>9</td>
+                                                     </tr>
+                                                        <td class="text-danger">10</td>
+                                                        <td>11</td>
+                                                        <td>12</td>
+                                                        <td>13</td>
+                                                        <td>14</td>
+                                                        <td>15</td>
+                                                        <td>16</td>
+                                                     </tr>
+                                                        <td class="text-danger">17</td>
+                                                        <td>18</td>
+                                                        <td>19</td>
+                                                        <td>20</td>
+                                                        <td>21</td>
+                                                        <td>22</td>
+                                                        <td>23</td>
+                                                     </tr>
+                                                        <td class="text-danger">24</td>
+                                                        <td>25</td>
+                                                        <td>26</td>
+                                                        <td>27</td>
+                                                        <td>28</td>
+                                                        <td>29</td>
+                                                        <td class="text-danger">30 (BONIFACIO DAY)</td>
+
+                                                        <style>
+                                                          .sunday{
+                                                            color: red;
+                                                          }
+                                                        </style>
+
+                                                    </head>
+                                                    <body>
+                                                     <div class="container">
+                                                         <div class="row">
+                                                           <div class="col-md-6 offset-md-3">
+                                                           <h2 class="text-center mt-5"></h2>
+                                                           <table class="table table-bordered mt-5">
+
+                                                            <thead>
+                                                                <h2 class="text-center mt-5">DECEMBER 2024</h2>
+                                                                <tr class="text-center">
+                                                                        <th scope="col" class="sunday">Sun</th>
+                                                                        <th scope="col">Mon</th>
+                                                                        <th scope="col">Tue</th>
+                                                                        <th scope="col">Wed</th>
+                                                                        <th scope="col">Thu</th>
+                                                                        <th scope="col">Fri</th>
+                                                                        <th scope="col">Sat</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody class="text-center"></tbody>
+                                                                  <tr>
+                                                                    <td class="text-danger">1</td>
+                                                                    <td>2</td>
+                                                                    <td>3</td>
+                                                                    <td>4</td>
+                                                                    <td>5</td>
+                                                                    <td>6</td>
+                                                                    <td>7</td>
+                                                                 </tr>
+                                                                    <td class="text-danger">8 (FEAST OF THE IMMACULATE CONCEPTION)</td>
+                                                                    <td>9</td>
+                                                                    <td>10</td>
+                                                                    <td>11</td>
+                                                                    <td>12</td>
+                                                                    <td>13</td>
+                                                                    <td>14</td>
+                                                                 </tr>
+                                                                    <td class="text-danger">15</td>
+                                                                    <td>16</td>
+                                                                    <td>17</td>
+                                                                    <td>18</td>
+                                                                    <td>19</td>
+                                                                    <td>20</td>
+                                                                    <td>21</td>
+                                                                 </tr>
+                                                                    <td class="text-danger">22</td>
+                                                                    <td>23</td>
+                                                                    <td class="text-danger">24 (CHRISTMAS EVE)</td>
+                                                                    <td class="text-danger">25 (CHRISTMAS DAY)</td>
+                                                                    <td>26</td>
+                                                                    <td>27</td>
+                                                                    <td>28</td>
+                                                                 </tr> 
+                                                                    <td class="text-danger">29</td>
+                                                                    <td class="text-danger">30 (RIZAL DAY)</td>
+                                                                    <td class="text-danger">31 (NEW YEAR'S EVE)</td>
+         </script>
+    </body>
+ </html>
+
+  
